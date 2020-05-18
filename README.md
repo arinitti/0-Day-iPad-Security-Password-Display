@@ -1,5 +1,5 @@
 # 0-Day-iPad-Security-Password-Display
-O-Day iPad Public Display Security Code —  Proof Of Concept for the the 2-Factor password display on an iPad 
+O-Day iPad Public Display Security Code —  Proof Of Concept for the 2-Factor password display on an iPad 
 
 
 For a holiday gift, I received an iPad Pro. Of course, I started using it to read LinkedIn. Naturally, I enabled 2 Factor Authentication. I chose the option of the text message. For several weeks, my eyes blithely overlooked the publicly displayed security code on the title bar of the iPad keyboard. I kept looking for the sent code in the iMessages app. 
